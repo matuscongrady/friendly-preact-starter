@@ -1,0 +1,17 @@
+{
+  "include": [
+    "./src/**/*"
+  ],
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "es2015",
+    "baseUrl": "./",
+    "paths": {
+      "services" : ["src/services"],
+      "components": ["src/components"],
+      "stores" : ["src/stores"],
+      "selectors": ["src/selectors"],
+      "utils": ["src/utils.js"]
+    }
+  }
+}

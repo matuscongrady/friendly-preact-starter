@@ -1,0 +1,9 @@
+{
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "dev": "https://api.graph.cool/simple/v1/insta",
+      "prod": "https://api.graph.cool/simple/v1/insta"
+    }
+  }
+}

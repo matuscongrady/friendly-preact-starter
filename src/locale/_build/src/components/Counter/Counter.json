@@ -1,0 +1,38 @@
+{
+  "Counter": {
+    "origin": [
+      [
+        "src/components/Counter/Counter.jsx",
+        17
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        17
+      ]
+    ]
+  },
+  "Counter times two": {
+    "origin": [
+      [
+        "src/components/Counter/Counter.jsx",
+        20
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        20
+      ]
+    ]
+  },
+  "Counter times six": {
+    "origin": [
+      [
+        "src/components/Counter/Counter.jsx",
+        23
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        23
+      ]
+    ]
+  }
+}

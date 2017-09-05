@@ -1,0 +1,26 @@
+{
+  "Home": {
+    "origin": [
+      [
+        "src/components/App.jsx",
+        13
+      ]
+    ]
+  },
+  "Counter": {
+    "origin": [
+      [
+        "src/components/App.jsx",
+        16
+      ]
+    ]
+  },
+  "Posts": {
+    "origin": [
+      [
+        "src/components/App.jsx",
+        19
+      ]
+    ]
+  }
+}

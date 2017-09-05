@@ -1,0 +1,10 @@
+{
+  "Data fetching Error": {
+    "origin": [
+      [
+        "src/components/reusable/FetchingError.jsx",
+        9
+      ]
+    ]
+  }
+}

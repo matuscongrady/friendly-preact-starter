@@ -1,0 +1,108 @@
+{
+  "Home": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/App.jsx",
+        13
+      ]
+    ]
+  },
+  "Counter": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/App.jsx",
+        16
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        17
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        17
+      ]
+    ]
+  },
+  "Posts": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/App.jsx",
+        19
+      ]
+    ]
+  },
+  "Counter times two": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/Counter/Counter.jsx",
+        20
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        20
+      ]
+    ]
+  },
+  "Counter times six": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/Counter/Counter.jsx",
+        23
+      ],
+      [
+        "src/components/Counter/Counter.jsx",
+        23
+      ]
+    ]
+  },
+  "Welcome, preact developer!": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/Home/Home.jsx",
+        9
+      ]
+    ]
+  },
+  "Posts from graphql API": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/Posts/Posts.jsx",
+        19
+      ]
+    ]
+  },
+  "Data fetching Error": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/reusable/FetchingError.jsx",
+        9
+      ]
+    ]
+  },
+  "Loading": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/reusable/Loading.jsx",
+        8
+      ]
+    ]
+  },
+  "Page not found": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/reusable/NotFound.jsx",
+        8
+      ]
+    ]
+  }
+}
